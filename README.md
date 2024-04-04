@@ -26,7 +26,20 @@
 
 ###
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<div align="center">
+  <a href="https://discord.com/channels/@snzk0" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/brian-snack/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/brian_snack_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmXMJRXmGfwvzRMvNhgFvwZwWrgkLMzmTKnqLmpQmmJgzsXnNjjMKdqtxMpgHhcPwPFFDz" target="_blank">
+    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
@@ -38,6 +51,10 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
   <img src="https://github-readme-stats.vercel.app/api?username=briansnack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=briansnack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hnqt2h3lxlfi6p3fff8qssthq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=de12cd&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)

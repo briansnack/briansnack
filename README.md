@@ -26,6 +26,8 @@
 
 ###
 
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
 ###
 
 <img src="https://raw.githubusercontent.com/briansnack/briansnack/output/snake.svg" alt="Snake animation" />

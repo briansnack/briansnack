@@ -34,7 +34,50 @@
 </div>
 
 ###
+// Salário Bruto
+salarioBruto = numHoras * valorHora;
+// Imposto de renda
+if (salarioBruto <= 1903.98)
+{
+    aliquota = 0;
+    parcela = 0;
+}
+if (salarioBruto >= 1903.99 && salarioBruto <= 2826.65){
+    aliquota = salarioBruto * 0,075;
+    parcela = aliquota;
+}
+if (salarioBruto >= 2826.66 && salarioBruto <= 3751.05){
+    aliquota = salarioBruto * 0,15;
+    parcela = aliquota;
+}
+if (salarioBruto >= 3751.06 && salarioBruto <= 4664.68){
+    aliquota = salarioBruto * 0,225;
+    parcela = aliquota;
+}
+if (salarioBruto > 4664.68){
+    aliquota = salarioBruto * 0,275;
+    parcela = aliquota;
+}
 
+// INSS
+if (salarioBruto <= 1693.72){
+    INSS = salarioBruto * 0,08;
+}
+if (salarioBruto >= 1693.73 && salarioBruto <= 2822.90){
+    INSS = salarioBruto * 0,09;
+}
+if (salarioBruto >= 2822.91 && salarioBruto <= 5645.80){
+    INSS = salarioBruto * 0,11;
+}
+if (salarioBruto > 5645.81 ){
+    INSS = salarioBruto - 621.03;
+}
+
+// FGTS
+fgts = salarioBruto * 0,08;
+
+// Salário Liquido
+salarioLiquido = salarioBruto - parcela - INSS;
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=briansnack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=briansnack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph"  />

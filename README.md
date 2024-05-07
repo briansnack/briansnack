@@ -41,3 +41,12 @@
 
 ###
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hnqt2h3lxlfi6p3fff8qssthq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=ff00a2&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+###
+<h1></h1>
+
+<p align="center"><b>Visitors Count</b></p> 
+
+
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fmalobr&s=50&c=a079c7&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<br>

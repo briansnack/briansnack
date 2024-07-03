@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=8C0D92&random=false&width=700&height=150&lines=Hi%2C+my+name+is+Brian)](https://git.io/typing-svg)
+
 <p align="center">Programming Languages</p>
 
 ###
